@@ -4,7 +4,7 @@ Here I have used python to clean the automobile data so it can be further implem
 
 
 I have provided:
-1.Automobile excel sheet
+1.Automobile csv file
 2.Data information
 3.Misc
 4.Index
